@@ -27,4 +27,4 @@ fundamental skill for any software developer.
 - Implement all core banking operations: registration, login, deposits, withdrawals, and transfers. 
 - Apply input validation and error handling to prevent invalid operations. 
 - Document the system thoroughly in accordance with the assignment requirements. 
-6. Commit all source code and SQL files to a public GitHub repository.
+- Commit all source code and SQL files to a public GitHub repository.
